@@ -1,0 +1,16 @@
+C:\VS\Чипижная\Лабы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\VS\Чипижная\Лабы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\VS\Чипижная\Лабы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\VS\Чипижная\Лабы\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\VS\Чипижная\Лабы\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\VS\Чипижная\Лабы\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\VS\Чипижная\Лабы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\VS\Чипижная\Лабы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Александра\Downloads\4\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Александра\Downloads\4\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Александра\Downloads\4\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Александра\Downloads\4\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Александра\Downloads\4\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александра\Downloads\4\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Downloads\4\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Александра\Downloads\4\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
